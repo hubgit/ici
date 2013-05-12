@@ -55,8 +55,7 @@ var app = new function() {
       limit: 20,
       radius: 5000,
       images: true,
-      summaries: true,
-      templates: true
+      summaries: true
     };
 
     geojson([lon, lat], options, displayResults);
