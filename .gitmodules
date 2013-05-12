@@ -1,0 +1,9 @@
+[submodule "lib/leaflet-awesome-markers"]
+	path = lib/leaflet-awesome-markers
+	url = git://github.com/lvoogdt/Leaflet.awesome-markers.git
+[submodule "lib/wikigeo"]
+	path = lib/wikigeo
+	url = git://github.com/edsu/wikigeo.git
+[submodule "lib/jquery-bbq"]
+	path = lib/jquery-bbq
+	url = git://github.com/joshlangner/jquery-bbq.git
